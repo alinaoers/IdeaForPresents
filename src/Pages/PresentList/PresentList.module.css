@@ -1,0 +1,31 @@
+.mainContent {
+    border: 3px dotted rgba(61, 19, 150, 0.979167);
+    margin: 10px;
+    padding: 5px;
+}
+
+.mainContentLeft {
+    border: 3px dotted rgba(61, 19, 150, 0.979167);
+    margin: 10px;
+    padding: 5px;
+    text-align: left;
+}
+h3 {
+    color: rgba(61, 19, 150, 0.979167);
+    font-size: 2vw;
+    font-family: Galindo, serif;
+}
+
+.txt {
+    color: rgba(61, 19, 150, 0.979167);
+    font-size: 1.5vw;
+    text-align: center;
+    font-family: Galindo, serif;
+}
+
+.return {
+    font-size: 1.2vw;
+    color: gray;
+    text-decoration: underline;
+    margin-left: -90%;
+}

@@ -1,0 +1,55 @@
+.mainContent {
+    border: 3px dotted rgba(61, 19, 150, 0.979167);
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.return {
+    font-size: 1.2vw;
+    color: gray;
+    text-decoration: underline;
+    margin-left: -90%;
+}
+
+h3 {
+    color: rgba(61, 19, 150, 0.979167);
+    font-size: 2vw;
+    font-family: Galindo, serif;
+}
+
+.txt {
+    color: rgba(61, 19, 150, 0.979167);
+    font-size: 1.5vw;
+    text-align: center;
+    font-family: Galindo, serif;
+}
+
+.questionBlock {
+    display: flex;
+    margin-left: 38.3%;
+    width: 23%;
+    height: 50px;
+    background: rgba(212, 217, 255, 0.53);
+    border-radius: 10px;
+    border: 1px solid rgba(61, 19, 150, 0.979167);
+    text-align: center;
+    color: rgba(61, 19, 150, 0.979167);
+    font-family: Galindo serif;
+    font-size: 1.5vw;
+    margin-bottom : 5px;
+    margin-top: 5px;
+}
+
+.btnSubmit {
+    background: rgba(212, 217, 255, 0.53);
+    border-radius: 5px;
+    border: 1px solid rgba(61, 19, 150, 0.979167);
+    display: flex;
+    margin-left: 58%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: rgba(61, 19, 150, 0.979167);
+    cursor: pointer;
+    font-size: 1vw;
+}

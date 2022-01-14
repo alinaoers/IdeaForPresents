@@ -1,0 +1,11 @@
+.mainBlock {
+    width: 23.5%;
+    height: 55px;
+    background: rgba(212, 217, 255, 0.53);
+    color: rgba(61, 19, 150, 0.979167);
+    font-family: Galindo, serif;
+    text-align: center;
+    font-size: 1.5vw;
+    border-radius: 10px;
+    border: 1px solid rgba(61, 19, 150, 0.979167);
+}
