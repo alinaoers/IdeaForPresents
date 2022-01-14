@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IdeaForPresents/static/css/main.5907cd8f.css",
+    "main.js": "/IdeaForPresents/static/js/main.f28e9572.js",
+    "index.html": "/IdeaForPresents/index.html",
+    "main.5907cd8f.css.map": "/IdeaForPresents/static/css/main.5907cd8f.css.map",
+    "main.f28e9572.js.map": "/IdeaForPresents/static/js/main.f28e9572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5907cd8f.css",
+    "static/js/main.f28e9572.js"
+  ]
+}
